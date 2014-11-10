@@ -2,5 +2,8 @@ Esto es un ejemplo de "git push"
 By: Manuel
 Alejandro
 Ortega
-gonz·lez
+
+gonz√°lez
 sexta linea
+septima linea
+
