@@ -5,3 +5,17 @@ Ortega
 gonzález
 sexta linea
 septima linea
+-----------------------------------------------------------------------|
+** Cambiando de nombre a un repositorio remoto **
+*
+*-------------------------------------
+*|   git remote add [nombre] [url]   |
+*-------------------------------------
+*
+*Esto facilita el no tener que escribir toda la url de repositorio:
+*
+* normalmente se hace: git clone [url]
+*
+* con el nombre cambiado: git clone [name]
+*
+-----------------------------------------------------------------------|
